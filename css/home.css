@@ -55,6 +55,12 @@ header > div > img:first-child{
   letter-spacing: 2px;
   margin: 16px 0 15px 0;
 }
+.account > div > .account_balance span{
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 2px;
+
+}
 .account > div > .account_graph{
   position: relative;
 }
